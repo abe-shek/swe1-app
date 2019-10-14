@@ -1,0 +1,6 @@
+*~
+*.pyc
+staticfiles/
+.coverage/
+htmlcov/
+.idea/
